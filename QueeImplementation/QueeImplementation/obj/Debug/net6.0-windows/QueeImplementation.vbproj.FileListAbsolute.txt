@@ -1,0 +1,17 @@
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\QueeImplementation\QueeImplementation\bin\Debug\net6.0-windows\QueeImplementation.exe
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\QueeImplementation\QueeImplementation\bin\Debug\net6.0-windows\QueeImplementation.deps.json
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\QueeImplementation\QueeImplementation\bin\Debug\net6.0-windows\QueeImplementation.runtimeconfig.json
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\QueeImplementation\QueeImplementation\bin\Debug\net6.0-windows\QueeImplementation.dll
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\QueeImplementation\QueeImplementation\bin\Debug\net6.0-windows\QueeImplementation.pdb
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\QueeImplementation\QueeImplementation\obj\Debug\net6.0-windows\QueeImplementation.vbproj.AssemblyReference.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\QueeImplementation\QueeImplementation\obj\Debug\net6.0-windows\QueeImplementation.Form1.resources
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\QueeImplementation\QueeImplementation\obj\Debug\net6.0-windows\QueeImplementation.vbproj.GenerateResource.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\QueeImplementation\QueeImplementation\obj\Debug\net6.0-windows\QueeImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\QueeImplementation\QueeImplementation\obj\Debug\net6.0-windows\QueeImplementation.AssemblyInfoInputs.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\QueeImplementation\QueeImplementation\obj\Debug\net6.0-windows\QueeImplementation.AssemblyInfo.vb
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\QueeImplementation\QueeImplementation\obj\Debug\net6.0-windows\QueeImplementation.vbproj.CoreCompileInputs.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\QueeImplementation\QueeImplementation\obj\Debug\net6.0-windows\QueeImplementation.dll
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\QueeImplementation\QueeImplementation\obj\Debug\net6.0-windows\refint\QueeImplementation.dll
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\QueeImplementation\QueeImplementation\obj\Debug\net6.0-windows\QueeImplementation.pdb
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\QueeImplementation\QueeImplementation\obj\Debug\net6.0-windows\QueeImplementation.genruntimeconfig.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\QueeImplementation\QueeImplementation\obj\Debug\net6.0-windows\ref\QueeImplementation.dll

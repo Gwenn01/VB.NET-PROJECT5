@@ -1,0 +1,17 @@
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\StackImplementation\StackImplementation\bin\Debug\net6.0-windows\StackImplementation.exe
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\StackImplementation\StackImplementation\bin\Debug\net6.0-windows\StackImplementation.deps.json
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\StackImplementation\StackImplementation\bin\Debug\net6.0-windows\StackImplementation.runtimeconfig.json
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\StackImplementation\StackImplementation\bin\Debug\net6.0-windows\StackImplementation.dll
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\StackImplementation\StackImplementation\bin\Debug\net6.0-windows\StackImplementation.pdb
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\StackImplementation\StackImplementation\obj\Debug\net6.0-windows\StackImplementation.vbproj.AssemblyReference.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\StackImplementation\StackImplementation\obj\Debug\net6.0-windows\StackImplementation.Form1.resources
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\StackImplementation\StackImplementation\obj\Debug\net6.0-windows\StackImplementation.vbproj.GenerateResource.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\StackImplementation\StackImplementation\obj\Debug\net6.0-windows\StackImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\StackImplementation\StackImplementation\obj\Debug\net6.0-windows\StackImplementation.AssemblyInfoInputs.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\StackImplementation\StackImplementation\obj\Debug\net6.0-windows\StackImplementation.AssemblyInfo.vb
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\StackImplementation\StackImplementation\obj\Debug\net6.0-windows\StackImplementation.vbproj.CoreCompileInputs.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\StackImplementation\StackImplementation\obj\Debug\net6.0-windows\StackImplementation.dll
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\StackImplementation\StackImplementation\obj\Debug\net6.0-windows\refint\StackImplementation.dll
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\StackImplementation\StackImplementation\obj\Debug\net6.0-windows\StackImplementation.pdb
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\StackImplementation\StackImplementation\obj\Debug\net6.0-windows\StackImplementation.genruntimeconfig.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\StackImplementation\StackImplementation\obj\Debug\net6.0-windows\ref\StackImplementation.dll
